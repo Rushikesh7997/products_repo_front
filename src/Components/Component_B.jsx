@@ -6,6 +6,7 @@ import "../App.css";
 
 export const Component_B = () => {
   // const [name,setName] = useState([])
+  
   const dispatch = useDispatch();
 
   const submitValue = (e) => {
